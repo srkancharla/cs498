@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>SaiKiran CS Project</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css"
+        integrity="sha512-4rPgyv5iG0PZw8E+oRdfN/Gq+yilzt9rQ8Yci2jJ15rAyBmF0HBE4wFjBkoB72cxBeg63uobaj1UcNt/scV93w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    </style>
+</head>
+
+<body>
+
+    <div id="fullpage">
+        <div class="section active" id="section0">
+            <p>&nbsp;</p> <p>&nbsp;</p>
+            <p>&nbsp;</p> <p>&nbsp;</p>
+            <p>&nbsp;</p> <p>&nbsp;</p>
+            <p>&nbsp;</p> <p>&nbsp;</p>
+            <h1 style="color: white;">FIFA &nbsp;Analysis</h1>
+            <div class="intro">
+                <p>&nbsp;</p>
+                <h2 style="color: white;">Created by SaiKiran Kancharla</h2>
+                <h3 style="color: white;">Swipe down to continue</h3>
+            </div>
+        </div>
+        <div class="section" id="section1">
+            <div class="slide active">
+                <h2>About the Dataset</h2>
+                <div class="intro">
+                    <p>
+                        This dataset contains the latest edition FIFA 2019 players attribuutes like Age,Nationality,Potential etc.
+                        Dataset contains 18k observations and 89K fields.
+                    </p>
+                </div>
+            </div>
+            <div class="slide">
+                <h2>Age has no effect on the Player Potential</h2>
+                <div class="chart">
+                    <svg id="svg2"></svg>
+                </div>
+                <p>&nbsp;</p>
+                <div class="intro">
+                    <p>
+                        The Scatter plot explores the relationship between Age and Potential of the Player.
+                        It is evident from the plot that potential is not affected by the player's age
+                    </p>
+                    <p>
+                        So let's move on to next scene.
+                    </p>
+                </div>
+            </div>
+            <div class="slide">
+                <h2>Top 20 highest paid clubs</h2>
+                <div class="chart">
+                    <svg id="svg3"></svg>
+                </div>
+                <p>&nbsp;</p>
+                <div class="intro">
+                    <p>
+                        The Bar chart shows the top 20 Highest Paid Clubs based on the average pay of the player
+                        in the club.
+                    </p>
+                    <p>
+                        So let's move on to next scene.
+                    </p>
+                </div>
+            </div>
+            <div class="slide">
+                <h2> Wanna know about your favourite club?</h2>
+                <h3 id="clubLabel">Club Name</h3>
+                <div class="chart grid-container" style="text-align: left;">
+                    <div style="grid-area: main;">
+                        <h2 style="margin-bottom: 0px; overflow: hidden; color: chocolate;" id="PlayerHigh"> India </h2>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Highest Paid Player</h5>
+                    </div>
+                    <div style="grid-area: country;">
+                        <h2 style="margin-bottom: 0px; color: chocolate;" id="CountryLabel"> India </h2>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Country with most players</h5>
+                    </div>
+                    <div style="grid-area: footleft;">
+                        <h2 style="margin-bottom: 0px; color: chocolate;" id="Position"> India </h2>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Position</h5>
+                    </div>
+                    <div style="grid-area: wage;">
+                        <h2 style="margin-bottom: 0px; color: chocolate;" id="WageLabel"> 45 </h2>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Wage(In Euros)</h5>
+                    </div>
+                    <div style="grid-area: menu;">
+                        <h1 style="margin-bottom: 0px; color: chocolate;" id="AgeLabel"> 45 </h1>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Average Age</h5>
+                    </div>
+                    <div style="grid-area: total;">
+                        <h1 style="margin-bottom: 0px; color: chocolate;" id="playesLabel"> 45 </h1>
+                        <h5 style="margin-top: 0px; color: darkgrey;"># Players</h5>
+                    </div>
+                    <div style="grid-area: potential;">
+                        <h1 style="margin-bottom: 0px; color: chocolate;" id="PotentailLabel"> 45 </h1>
+                        <h5 style="margin-top: 0px; color: darkgrey;">Average Potential</h5>
+                    </div>
+                    <div style="grid-area: foot;">
+                        <select id="optionSelect"></select>
+                        <h5 style="color: darkgray;">Select club here</h5>
+                    </div>
+                </div>
+                <p>&nbsp;</p>
+                <div class="intro">
+                    <p>
+                        This Visualization shows the Key Statistics of the club like Average Age of player in the club,
+                        Average Potential of players
+                        in the club, Number of players in the club, Highest Paid Player's Position, wage and country
+                        with the most representation. User has the ability to select any club using the drill down button
+                        to look at the key statistics
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/vendors/scrolloverflow.min.js"
+        integrity="sha512-pYyQWhzi2lV+RM4GmaUA56VPL48oLVvsHmP9tuQ8MaZMDHomVEDjXXnfSVKXayy+wLclKPte0KbsuVoFImtE7w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
+        integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+        var charts = {};
+        charts.drawn = [];
+    </script>
+    <script src="scripts/chart1.js"></script>
+    <script src="scripts/chart2.js"></script>
+    <script src="scripts/chart3.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>

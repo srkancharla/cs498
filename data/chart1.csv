@@ -1,0 +1,653 @@
+Club,Average_Wage,Total_Players
+Real Madrid,152.030303,33
+FC Barcelona,146.5757576,33
+Juventus,131.68,25
+Manchester City,113.3636364,33
+Manchester United,102.7575758,33
+Chelsea,98.45454545,33
+Liverpool,87.93939394,33
+Tottenham Hotspur,79.48484848,33
+FC Bayern Munich,78.82758621,29
+Arsenal,78.42424242,33
+Milan,72.48148148,27
+Paris Saint-Germain,72.03333333,30
+Napoli,71.08,25
+Inter,66.5,24
+Everton,61.03030303,33
+Roma,53.80769231,26
+West Ham United,53.75,32
+Atlético Madrid,46.45454545,33
+Bayer 04 Leverkusen,44.65384615,26
+Leicester City,43.90625,32
+Fenerbahçe SK,39.53333333,30
+Olympique Lyonnais,38.79310345,29
+Lazio,38.3125,32
+Borussia Dortmund,38.12121212,33
+AS Monaco,37.90909091,33
+Fiorentina,34.95833333,24
+Watford,34.89655172,29
+Beşiktaş JK,34.82142857,28
+Burnley,34.09090909,33
+Olympique de Marseille,33.31034483,29
+Galatasaray SK,32.6,30
+Bournemouth,32.375,32
+Crystal Palace,31.1875,32
+RB Leipzig,30.96428571,28
+Southampton,30.09090909,33
+Sassuolo,30.03703704,27
+Newcastle United,29.42424242,33
+Wolverhampton Wanderers,29.15151515,33
+Fulham,28.78125,32
+Celtic,28.60714286,28
+Tigres U.A.N.L.,28.4,30
+Torino,28.38461538,26
+VfL Wolfsburg,28.375,32
+Brighton & Hove Albion,28.28125,32
+Valencia CF,28.12121212,33
+Club América,27.73333333,30
+Stoke City,26.06666667,30
+Atlético Mineiro,25.85,20
+Sampdoria,25.18518519,27
+Nottingham Forest,24.9,30
+Villarreal CF,24.71875,32
+FC Schalke 04,24.5862069,29
+Middlesbrough,24.5,30
+TSG 1899 Hoffenheim,24.06060606,33
+Rangers FC,23.89285714,28
+Cagliari,23.54166667,24
+Eintracht Frankfurt,23.36363636,33
+Parma,23.24137931,29
+Girona FC,22.96551724,29
+Monterrey,22.96153846,26
+Cardiff City,22.93939394,33
+Real Betis,22.92592593,27
+Huddersfield Town,22.875,32
+Bologna,22.28571429,28
+Grêmio,22.25,20
+FC Girondins de Bordeaux,22.19354839,31
+Derby County,22.1,30
+Real Sociedad,21.48387097,31
+Atalanta,21.04166667,24
+VfB Stuttgart,20.96296296,27
+Borussia Mönchengladbach,20.86666667,30
+AS Saint-Étienne,19.95833333,24
+Internacional,19.85,20
+Medipol Başakşehir FK,19.67857143,28
+Leeds United,19.5,30
+Cruzeiro,19.35,20
+SD Eibar,19.34482759,29
+Hannover 96,19.27586207,29
+Stade Rennais FC,19.22222222,27
+Fluminense,18.95,20
+OGC Nice,18.78571429,28
+Sevilla FC,18.53333333,30
+CD Leganés,18.3030303,33
+Boca Juniors,18.2962963,27
+Al Hilal,18.06666667,30
+SV Werder Bremen,17.78125,32
+West Bromwich Albion,17.76666667,30
+Deportivo Alavés,17.59259259,27
+Athletic Club de Bilbao,17.48387097,31
+Wigan Athletic,17.4,30
+Levante UD,17.34375,32
+Getafe CF,17.25,28
+Hertha BSC,16.875,32
+RCD Espanyol,16.20689655,29
+Bristol City,16.03333333,30
+Guangzhou Evergrande Taobao FC,15.85714286,28
+FC Nantes,15.8125,32
+Toulouse Football Club,15.74193548,31
+FC Red Bull Salzburg,15.74074074,27
+Udinese,15.6,30
+1. FSV Mainz 05,15.5625,32
+RC Celta,15.54545455,33
+Trabzonspor,15.53571429,28
+Aston Villa,15.53333333,30
+Rayo Vallecano,15.24242424,33
+Al Ahli,15.16666667,30
+Sporting CP,14.86666667,30
+FC Porto,14.64285714,28
+Guadalajara,14.62068966,29
+Al Nassr,14.51724138,29
+LOSC Lille,14.36,25
+Botafogo,14,20
+Independiente,14,28
+SC Freiburg,13.86666667,30
+Norwich City,13.83333333,30
+Fortuna Düsseldorf,13.81818182,33
+Brentford,13.76666667,30
+En Avant de Guingamp,13.72,25
+River Plate,13.72,25
+FC Augsburg,13.67741935,31
+Swansea City,13.66666667,30
+1. FC Union Berlin,13.64285714,28
+Montpellier HSC,13.64285714,28
+FC Basel 1893,13.51851852,27
+Sheffield Wednesday,13.5,30
+Club Brugge KV,13.32142857,28
+1. FC Köln,13.28571429,28
+Cruz Azul,13.16,25
+Stade Malherbe Caen,13.03571429,28
+Angers SCO,12.6,30
+Racing Club,12.5,28
+SC Braga,12.5,28
+Göztepe SK,12.42857143,28
+SD Huesca,12.4,30
+Al Ittihad,12.36666667,30
+Genoa,12.2962963,27
+Blackburn Rovers,12.13333333,30
+Reading,12.1,30
+SL Benfica,12.03571429,28
+Ajax,11.83333333,30
+Pachuca,11.82758621,29
+Real Valladolid CF,11.8,30
+Deportivo Toluca,11.75,28
+Club León,11.6,30
+Vitesse,11.35714286,28
+KAA Gent,11.25,28
+MKE Ankaragücü,11.24137931,29
+RSC Anderlecht,11.03571429,28
+Santos Laguna,10.88461538,26
+1. FC Nürnberg,10.65517241,29
+Chievo Verona,10.64285714,28
+Frosinone,10.57575758,33
+Santos,10.55,20
+SPAL,10.2962963,27
+FC København,10.17391304,23
+Birmingham City,10.16666667,30
+Paraná,10.15,20
+Standard de Liège,10.03571429,28
+FC Ingolstadt 04,9.866666667,30
+Hull City,9.833333333,30
+RC Strasbourg Alsace,9.678571429,28
+Atiker Konyaspor,9.62962963,27
+Amiens SC,9.620689655,29
+América FC (Minas Gerais),9.6,20
+PSV,9.6,30
+Bursaspor,9.533333333,30
+Brøndby IF,9.407407407,27
+FC Utrecht,9.269230769,26
+Chapecoense,9.2,20
+KRC Genk,9.16,25
+San Lorenzo de Almagro,9.107142857,28
+Akhisar Belediyespor,9.076923077,26
+Nîmes Olympique,9,27
+Sivasspor,9,27
+FC Midtjylland,8.925925926,27
+Dijon FCO,8.923076923,26
+Ceará Sporting Club,8.9,20
+Stade de Reims,8.896551724,29
+BSC Young Boys,8.875,24
+Al Wehda,8.866666667,30
+Feyenoord,8.821428571,28
+Sport Club do Recife,8.75,20
+Kayserispor,8.72,25
+Empoli,8.606060606,33
+Sheffield United,8.5,30
+Deportivo de La Coruña,8.433333333,30
+FC Sion,8.37037037,27
+SV Darmstadt 98,8.37037037,27
+Vitória,8.35,20
+Rotherham United,8.346153846,26
+Al Shabab,8.3,30
+Atlético Paranaense,8.1,20
+U.N.A.M.,8.034482759,29
+UD Las Palmas,7.931034483,29
+Málaga CF,7.9,30
+AZ Alkmaar,7.866666667,30
+Bahia,7.85,20
+Club Atlético Lanús,7.821428571,28
+Beijing Sinobo Guoan FC,7.785714286,28
+Club Tijuana,7.75,28
+VfL Bochum 1848,7.653846154,26
+Antalyaspor,7.633333333,30
+Club Atlas,7.620689655,29
+Hamburger SV,7.566666667,30
+Hellas Verona,7.413793103,29
+Alanyaspor,7.4,30
+Vitória Guimarães,7.266666667,30
+Kasimpaşa SK,7.217391304,23
+Newell's Old Boys,7.107142857,28
+KSV Cercle Brugge,7,28
+Royal Antwerp FC,7,25
+FC St. Pauli,6.933333333,30
+Shanghai SIPG FC,6.928571429,28
+Rosario Central,6.857142857,28
+Club Atlético Huracán,6.821428571,28
+SK Rapid Wien,6.592592593,27
+SK Sturm Graz,6.56,25
+Sporting de Charleroi,6.5,28
+Queens Park Rangers,6.466666667,30
+Çaykur Rizespor,6.433333333,30
+SG Dynamo Dresden,6.428571429,28
+KV Oostende,6.384615385,26
+Club Atlético Tigre,6.357142857,28
+KV Kortrijk,6.321428571,28
+Club Atlético Colón,6.285714286,28
+Al Faisaly,6.133333333,30
+GD Chaves,6.12,25
+Clube Sport Marítimo,6.086956522,23
+Universidad de Chile,6.071428571,28
+Defensa y Justicia,6.035714286,28
+Estudiantes de La Plata,6.035714286,28
+Ettifaq FC,5.933333333,30
+Real Oviedo,5.933333333,30
+Rio Ave FC,5.928571429,28
+SV Zulte-Waregem,5.923076923,26
+Albacete BP,5.9,30
+Sint-Truidense VV,5.892857143,28
+Club Atlético Banfield,5.888888889,27
+Unión de Santa Fe,5.857142857,28
+Jiangsu Suning FC,5.785714286,28
+Preston North End,5.724137931,29
+Al Fayha,5.714285714,28
+Atlético Tucumán,5.714285714,28
+Shandong Luneng TaiShan FC,5.703703704,27
+Club Necaxa,5.7,30
+FK Austria Wien,5.592592593,27
+Al Fateh,5.571428571,28
+Benevento,5.56,25
+CD Feirense,5.538461538,26
+Sporting Lokeren,5.535714286,28
+Real Sporting de Gijón,5.533333333,30
+CA Osasuna,5.52,25
+Bolton Wanderers,5.5,30
+CD Aves,5.5,28
+BB Erzurumspor,5.48,25
+Yeni Malatyaspor,5.433333333,30
+Al Taawoun,5.413793103,29
+Portimonense SC,5.37037037,27
+Millwall,5.333333333,30
+New York City FC,5.269230769,26
+Puebla FC,5.266666667,30
+DSC Arminia Bielefeld,5.25,28
+Hebei China Fortune FC,5.214285714,28
+Tianjin Quanjian FC,5.192307692,26
+KAS Eupen,5.178571429,28
+CD Nacional,5.038461538,26
+Club Atlético Talleres,5.035714286,28
+Pescara,5.035714286,28
+CD Numancia,5,28
+Grasshopper Club Zürich,5,27
+Al Qadisiyah,4.966666667,30
+Al Raed,4.966666667,30
+Real Zaragoza,4.933333333,30
+Shanghai Greenland Shenhua FC,4.928571429,28
+Patronato,4.892857143,28
+1. FC Magdeburg,4.884615385,26
+Sunderland,4.857142857,28
+Ipswich Town,4.833333333,30
+ADO Den Haag,4.821428571,28
+Legia Warszawa,4.814814815,27
+Querétaro,4.8,30
+Monarcas Morelia,4.785714286,28
+Guangzhou R&F; FC,4.75,28
+Vitória de Setúbal,4.75,28
+Vélez Sarsfield,4.75,28
+Belgrano de Córdoba,4.740740741,27
+Jeonbuk Hyundai Motors,4.714285714,28
+Willem II,4.714285714,28
+Gimnasia y Esgrima La Plata,4.678571429,28
+Racing Club de Lens,4.666666667,30
+Urawa Red Diamonds,4.666666667,27
+Gimnàstic de Tarragona,4.633333333,30
+Godoy Cruz,4.571428571,28
+Los Angeles FC,4.56,25
+Aberdeen,4.518518519,27
+1. FC Heidenheim 1846,4.464285714,28
+Seattle Sounders FC,4.444444444,27
+Charlton Athletic,4.428571429,28
+LA Galaxy,4.4,25
+Heart of Midlothian,4.37037037,27
+Cádiz CF,4.333333333,30
+Colo-Colo,4.321428571,28
+Universidad Católica,4.321428571,28
+AD Alcorcón,4.310344828,29
+Holstein Kiel,4.310344828,29
+Peterborough United,4.269230769,26
+ESTAC Troyes,4.266666667,30
+ SSV Jahn Regensburg,4.24137931,29
+Granada CF,4.24137931,29
+CD Tenerife,4.233333333,30
+Beijing Renhe FC,4.214285714,28
+Guizhou Hengfeng FC,4.214285714,28
+Ulsan Hyundai FC,4.214285714,28
+Hibernian,4.2,25
+Club Atlético Aldosivi,4.178571429,28
+Kashima Antlers,4.166666667,30
+Boavista FC,4.148148148,27
+Sporting Kansas City,4.148148148,27
+Toronto FC,4.142857143,28
+FC St. Gallen,4.08,25
+Argentinos Juniors,4.071428571,28
+Sanfrecce Hiroshima,4.038461538,26
+Montreal Impact,4.034482759,29
+Dalian YiFang FC,4,28
+New York Red Bulls,3.965517241,29
+DC United,3.928571429,28
+Aalborg BK,3.925925926,27
+Scunthorpe United,3.925925926,27
+Columbus Crew SC,3.923076923,26
+FC Metz,3.923076923,26
+CD Lugo,3.9,30
+Lobos BUAP,3.888888889,27
+SV Mattersburg,3.888888889,27
+Moreirense FC,3.88,25
+SpVgg Greuther Fürth,3.857142857,28
+US Salernitana 1919,3.857142857,28
+Odense Boldklub,3.851851852,27
+Ohod Club,3.8,25
+Lincoln City,3.785714286,28
+San Martín de San Juan,3.785714286,28
+PEC Zwolle,3.777777778,27
+Vancouver Whitecaps FC,3.777777778,27
+Perugia,3.769230769,26
+VVV-Venlo,3.769230769,26
+Melbourne City FC,3.76,25
+FC Zürich,3.740740741,27
+SC Paderborn 07,3.733333333,30
+Tiburones Rojos de Veracruz,3.724137931,29
+Mansfield Town,3.714285714,28
+San Martin de Tucumán,3.714285714,28
+Waasland-Beveren,3.714285714,28
+AIK,3.703703704,27
+Foggia,3.703703704,27
+SC Heerenveen,3.703703704,27
+Changchun Yatai FC,3.642857143,28
+Atlanta United,3.620689655,29
+Melbourne Victory,3.619047619,21
+Fleetwood Town,3.607142857,28
+Henan Jianye FC,3.607142857,28
+Portsmouth,3.607142857,28
+Portland Timbers,3.6,30
+Al Batin,3.566666667,30
+Colorado Rapids,3.565217391,23
+US Cremonese,3.56,25
+Rosenborg BK,3.538461538,26
+Burton Albion,3.535714286,28
+Plymouth Argyle,3.535714286,28
+NAC Breda,3.533333333,30
+UD Almería,3.533333333,30
+Lech Poznań,3.518518519,27
+CF Rayo Majadahonda,3.5,26
+SV Sandhausen,3.482758621,29
+Milton Keynes Dons,3.464285714,28
+Kashiwa Reysol,3.428571429,28
+Malmö FF,3.407407407,27
+Extremadura UD,3.4,30
+Kawasaki Frontale,3.4,30
+FC Dallas,3.379310345,29
+FC Luzern,3.37037037,27
+Notts County,3.357142857,28
+Philadelphia Union,3.344827586,29
+Molde FK,3.307692308,26
+AJ Auxerre,3.296296296,27
+Jagiellonia Białystok,3.296296296,27
+Kilmarnock,3.285714286,28
+MSV Duisburg,3.269230769,26
+Barnsley,3.25,28
+Bradford City,3.25,28
+Oxford United,3.25,28
+Chicago Fire,3.217391304,23
+Os Belenenses,3.208333333,24
+FC Tokyo,3.2,30
+Royal Excel Mouscron,3.178571429,28
+Al Hazem,3.166666667,30
+Gamba Osaka,3.166666667,30
+Córdoba CF,3.153846154,26
+FC Thun,3.153846154,26
+Atlético Nacional,3.142857143,28
+Suwon Samsung Bluewings,3.142857143,28
+Orlando City SC,3.133333333,30
+Aarhus GF,3.111111111,27
+Fortuna Sittard,3.111111111,27
+Sydney FC,3.08,25
+SKN St. Pölten,3.074074074,27
+Tianjin TEDA FC,3.071428571,28
+Carpi,3.066666667,30
+Minnesota United FC,3.066666667,30
+Padova,3.066666667,30
+Palermo,3.066666667,30
+Forest Green Rovers,3.041666667,24
+Luton Town,3.04,25
+RCD Mallorca,3.035714286,28
+AC Ajaccio,3,23
+Cosenza,3,30
+Wolfsberger AC,3,26
+Venezia FC,2.964285714,28
+FC Groningen,2.961538462,26
+Stade Brestois 29,2.96,25
+Real Salt Lake,2.933333333,30
+Lecce,2.931034483,29
+San Jose Earthquakes,2.923076923,26
+Oldham Athletic,2.92,25
+LASK Linz,2.916666667,24
+Cerezo Osaka,2.9,30
+FC Lorient,2.9,30
+FC Sochaux-Montbéliard,2.892857143,28
+Houston Dynamo,2.866666667,30
+SCR Altach,2.846153846,26
+Vissel Kobe,2.833333333,30
+Pogoń Szczecin,2.807692308,26
+Santa Clara,2.807692308,26
+Valenciennes FC,2.793103448,29
+Bury,2.785714286,28
+CF Reus Deportiu,2.785714286,28
+New England Revolution,2.777777778,27
+Clermont Foot 63,2.76,25
+Western Sydney Wanderers,2.76,25
+Chongqing Dangdai Lifan FC SWM Team,2.75,28
+Walsall,2.740740741,27
+Heracles Almelo,2.724137931,29
+Blackpool,2.714285714,28
+Lechia Gdańsk,2.703703704,27
+Crotone,2.666666667,24
+FC Lugano,2.666666667,27
+FC Erzgebirge Aue,2.655172414,29
+Excelsior,2.653846154,26
+Colchester United,2.642857143,28
+FC Seoul,2.642857143,28
+Independiente Santa Fe,2.642857143,28
+SV Wehen Wiesbaden,2.625,24
+CD Tondela,2.6,25
+AS Nancy Lorraine,2.566666667,30
+CD Universidad de Concepción,2.555555556,27
+Cheltenham Town,2.541666667,24
+Elche CF,2.538461538,26
+Swindon Town,2.538461538,26
+Southend United,2.535714286,28
+Paris FC,2.52,25
+KFC Uerdingen 05,2.5,28
+Northampton Town,2.5,28
+Port Vale,2.5,26
+CD Everton de Viña del Mar,2.481481481,27
+FC Wacker Innsbruck,2.481481481,27
+Pohang Steelers,2.481481481,27
+SønderjyskE,2.481481481,27
+Randers FC,2.44,25
+Doncaster Rovers,2.428571429,28
+Jeju United FC,2.428571429,28
+FC Nordsjælland,2.407407407,27
+Shrewsbury,2.407407407,27
+Wycombe Wanderers,2.4,25
+Accrington Stanley,2.392857143,28
+Nagoya Grampus,2.37037037,27
+Exeter City,2.357142857,28
+Le Havre AC,2.333333333,30
+Spezia,2.321428571,28
+Hobro IK,2.32,25
+Livorno,2.3,30
+FC Admira Wacker Mödling,2.296296296,27
+IFK Norrköping,2.291666667,24
+Crewe Alexandra,2.285714286,28
+Millonarios FC,2.285714286,28
+Brescia,2.266666667,30
+SK Brann,2.259259259,27
+St. Mirren,2.259259259,27
+Vendsyssel FF,2.259259259,27
+Bristol Rovers,2.25,28
+De Graafschap,2.233333333,30
+CD O'Higgins,2.214285714,28
+AC Horsens,2.2,25
+Jeonnam Dragons,2.178571429,28
+Karlsruher SC,2.178571429,28
+Brisbane Roar,2.173913043,23
+Dundee FC,2.148148148,27
+CD Palestino,2.142857143,28
+Sagan Tosu,2.1,30
+Carlisle United,2.08,25
+Wisła Kraków,2.076923077,26
+FC Würzburger Kickers,2.074074074,27
+Piast Gliwice,2.074074074,27
+Junior FC,2.071428571,28
+Östersunds FK,2.045454545,22
+FC Hansa Rostock,2.04,25
+Perth Glory,2.04,25
+Śląsk Wrocław,2.04,25
+Hammarby IF,2.037037037,27
+Neuchâtel Xamax,2.037037037,27
+Coventry City,2.035714286,28
+Djurgårdens IF,2,25
+Gangwon FC,2,28
+Grimsby Town,2,25
+América de Cali,1.964285714,28
+Rochdale,1.964285714,28
+Tranmere Rovers,1.964285714,28
+AFC Wimbledon,1.961538462,26
+Grenoble Foot 38,1.961538462,26
+Newport County,1.961538462,26
+Ascoli,1.933333333,30
+Stevenage,1.928571429,28
+Vejle Boldklub,1.925925926,27
+Central Coast Mariners,1.92,25
+Cambridge United,1.892857143,28
+Crawley Town,1.875,24
+Yokohama F. Marinos,1.866666667,30
+Yeovil Town,1.857142857,28
+Esbjerg fB,1.84,25
+FC Emmen,1.833333333,30
+Independiente Medellín,1.821428571,28
+Unión Española,1.821428571,28
+St. Johnstone FC,1.814814815,27
+Zagłębie Lubin,1.814814815,27
+Deportes Tolima,1.785714286,28
+Deportivo Cali,1.785714286,28
+Gillingham,1.785714286,28
+Motherwell,1.785714286,28
+TSV Hartberg,1.769230769,26
+Wisła Płock,1.769230769,26
+US Orléans Loiret Football,1.76,25
+Eintracht Braunschweig,1.75,28
+La Berrichonne de Châteauroux,1.75,24
+Red Star FC,1.75,28
+TSV 1860 München,1.75,28
+CD Huachipato,1.740740741,27
+Macclesfield Town,1.730769231,26
+Gyeongnam FC,1.714285714,28
+GFC Ajaccio,1.695652174,23
+1. FC Kaiserslautern,1.692307692,26
+IF Elfsborg,1.666666667,27
+Júbilo Iwata,1.666666667,30
+Morecambe,1.642857143,28
+Shimizu S-Pulse,1.633333333,30
+Cracovia,1.62962963,27
+Górnik Zabrze,1.62962963,27
+Chamois Niortais Football Club,1.607142857,28
+Unión La Calera,1.592592593,27
+Livingston FC,1.571428571,28
+Once Caldas,1.571428571,28
+Odds BK,1.565217391,23
+BK Häcken,1.555555556,27
+Strømsgodset IF,1.541666667,24
+SpVgg Unterhaching,1.538461538,26
+Vålerenga Fotball,1.538461538,26
+Incheon United FC,1.535714286,28
+Arka Gdynia,1.518518519,27
+Audax Italiano,1.5,28
+CD Antofagasta,1.5,28
+Daegu FC,1.5,28
+Newcastle Jets,1.5,24
+San Luis de Quillota,1.5,28
+VfL Osnabrück,1.5,26
+Vegalta Sendai,1.481481481,27
+Örebro SK,1.481481481,27
+Adelaide United,1.48,25
+Curicó Unido,1.428571429,28
+Sarpsborg 08 FF,1.423076923,26
+FK Haugesund,1.409090909,22
+Wellington Phoenix,1.380952381,21
+Korona Kielce,1.37037037,27
+Hamilton Academical FC,1.357142857,28
+SV Meppen,1.321428571,28
+Cittadella,1.310344828,29
+Tromsø IL,1.3,20
+Stabæk Fotball,1.296296296,27
+Lillestrøm SK,1.291666667,24
+Atlético Bucaramanga,1.285714286,28
+Deportes Iquique,1.285714286,28
+AS Béziers,1.269230769,26
+GIF Sundsvall,1.260869565,23
+Kalmar FF,1.259259259,27
+SC Preußen Münster,1.259259259,27
+Club Deportes Temuco,1.25,28
+FC Carl Zeiss Jena,1.25,28
+Hokkaido Consadole Sapporo,1.24137931,29
+Shonan Bellmare,1.233333333,30
+Sangju Sangmu FC,1.214285714,28
+SG Sonnenhof Großaspach,1.208333333,24
+V-Varen Nagasaki,1.2,30
+Miedź Legnica,1.185185185,27
+IFK Göteborg,1.173913043,23
+Kristiansund BK,1.166666667,24
+Hallescher FC,1.16,25
+FK Bodø/Glimt,1.148148148,27
+La Equidad,1.142857143,28
+Rionegro Águilas,1.142857143,28
+Dundalk,1.130434783,23
+SC Fortuna Köln,1.115384615,26
+Atlético Huila,1.107142857,28
+IK Start,1.083333333,24
+Ranheim Fotball,1.083333333,24
+Sandefjord Fotball,1.083333333,24
+Waterford FC,1.08,25
+Zagłębie Sosnowiec,1.08,25
+Alianza Petrolera,1.071428571,28
+Patriotas Boyacá FC,1.071428571,28
+VfL Sportfreunde Lotte,1.071428571,28
+Derry City,1.055555556,18
+Dalkurd FF,1.047619048,21
+VfR Aalen,1.041666667,24
+FSV Zwickau,1.04,25
+AEK Athens,1,28
+Bohemian FC,1,25
+Boyacá Chicó FC,1,28
+Bray Wanderers,1,23
+Cork City,1,25
+Deportivo Pasto,1,28
+Dinamo Zagreb,1,28
+Dynamo Kyiv,1,28
+Envigado FC,1,28
+FC Energie Cottbus,1,28
+HJK Helsinki,1,26
+IF Brommapojkarna,1,26
+IK Sirius,1,27
+Itagüí Leones FC,1,28
+Jaguares de Córdoba,1,28
+Kaizer Chiefs,1,27
+Limerick FC,1,19
+Lokomotiv Moscow,1,28
+Olympiacos CFP,1,28
+Orlando Pirates,1,28
+PAOK,1,27
+PFC CSKA Moscow,1,28
+Panathinaikos FC,1,28
+SK Slavia Praha,1,28
+Shakhtar Donetsk,1,28
+Shamrock Rovers,1,22
+Sligo Rovers,1,19
+Sparta Praha,1,28
+Spartak Moscow,1,27
+St. Patrick's Athletic,1,23
+Trelleborgs FF,1,27
+Viktoria Plzeň,1,24
+No Club,0,241
