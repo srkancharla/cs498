@@ -60,8 +60,8 @@ charts.chart3 = function () {
                 return d[0].toUpperCase() + d.slice(1, d.length); // capitalize 1st letter
             });
         
-        var initialData = clubStatsMap[clubs[0]];
-        updateBars(initialData, clubs[0]);
+        var initialData = clubStatsMap['FC Barcelona'];
+        updateBars(initialData, 'FC Barcelona');
     };
 
 
